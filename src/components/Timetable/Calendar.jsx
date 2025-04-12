@@ -20,6 +20,7 @@ const Calendar = () => {
         <tbody>
           <tr>
             <td className="time">8 am</td>
+<<<<<<< HEAD
             <td>
               <Event
                 event="Starbucks ☕"
@@ -76,10 +77,43 @@ const Calendar = () => {
             <td>
               <Event event="Deep Dish 🍕" location="Giordano’s" color="green" />
             </td>
+=======
+            <Event
+              event="Starbucks ☕"
+              location="646 Michigan Ave"
+              color="green"
+            />
             <td></td>
             <td></td>
             <td></td>
             <td></td>
+            <Event event="Yolk 🍳" location="355 E Ohio St" color="green" />
+            <td></td>
+          </tr>
+          <tr>
+            <td className="time">9 am</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <Event event="Subway 🚇" location="Grand Station" color="pink" />
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td className="time">10 am</td>
+            <td></td>
+            <Event
+              event="River Cruise ⛵"
+              location="Chicago River"
+              color="blue"
+            />
+>>>>>>> 14d751f (Timetable)
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+<<<<<<< HEAD
             <td>
               <Event
                 event="The Bean 🫘"
@@ -89,10 +123,15 @@ const Calendar = () => {
             </td>
           </tr>
 
+=======
+            <Event event="The Bean 🫘" location="Millennium Park" color="blue" />
+          </tr>
+>>>>>>> 14d751f (Timetable)
           <tr>
             <td className="time">11 am</td>
             <td></td>
             <td></td>
+<<<<<<< HEAD
             <td>
               <Event event="Deep Dish 🍕" location="Giordano’s" color="green" />
             </td>
@@ -103,17 +142,25 @@ const Calendar = () => {
                 color="pink"
               />
             </td>
+=======
+            <Event event="Deep Dish 🍕" location="Giordano’s" color="green" />
+            <td></td>
+>>>>>>> 14d751f (Timetable)
             <td></td>
             <td></td>
             <td></td>
           </tr>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 14d751f (Timetable)
           <tr>
             <td className="time">12 pm</td>
             <td></td>
             <td></td>
             <td></td>
             <td></td>
+<<<<<<< HEAD
             <td>
               <Event
                 event="Subway 🚇"
@@ -207,6 +254,72 @@ const Calendar = () => {
             </td>
           </tr>
 
+=======
+            <td></td>
+            <Event
+              event="Subway 🚇"
+              location="Washington Station"
+              color="pink"
+            />
+            <td></td>
+          </tr>
+          <tr>
+            <td className="time">1 pm</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td className="time">2 pm</td>
+            <td></td>
+            <Event
+              event="Art Institute 🖼️"
+              location="111 S Michigan Ave"
+              color="blue"
+            />
+            <td></td>
+            <td></td>
+            <Event
+              event="Girl & the Goat 🍽️"
+              location="809 W Randolph St"
+              color="green"
+            />
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td className="time">3 pm</td>
+            <Event event="Cubs Game ⚾" location="Wrigley Field" color="blue" />
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <Event
+              event="Subway 🚇"
+              location="Roosevelt Station"
+              color="pink"
+            />
+            <td></td>
+          </tr>
+          <tr>
+            <td className="time">4 pm</td>
+            <td></td>
+            <Event
+              event="Fancy Dinner 🎩"
+              location="Maple & Ash"
+              color="green"
+            />
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+>>>>>>> 14d751f (Timetable)
           <tr>
             <td className="time">5 pm</td>
             <td></td>
@@ -214,6 +327,7 @@ const Calendar = () => {
             <td></td>
             <td></td>
             <td></td>
+<<<<<<< HEAD
             <td>
               <Event
                 event="Shopping 🛍️"
@@ -222,6 +336,14 @@ const Calendar = () => {
               />
             </td>
             <td></td>
+=======
+            <td></td>
+            <Event
+              event="Shopping 🛍️"
+              location="Magnificent Mile"
+              color="blue"
+            />
+>>>>>>> 14d751f (Timetable)
           </tr>
         </tbody>
       </table>
