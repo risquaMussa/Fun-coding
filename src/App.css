@@ -16,6 +16,9 @@ body {
   min-height: 100vh;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e848d1d (Fix Calendar layout and ensure location displays)
 
 body {
   margin: 0;
@@ -79,5 +82,8 @@ td {
 .event.yellow {
   background-color: lightyellow;
 }
+<<<<<<< HEAD
 =======
 >>>>>>> 14d751f (Timetable)
+=======
+>>>>>>> e848d1d (Fix Calendar layout and ensure location displays)
